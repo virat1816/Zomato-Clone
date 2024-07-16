@@ -1,0 +1,17 @@
+module.exports.userController = require("./user.controller");
+module.exports.tokenController = require("./token.controller");
+module.exports.categoryController = require("./category.controller");
+module.exports.productController = require("./product.controller");
+module.exports.addressController = require("./address.controller");
+module.exports.adminUserController = require("./adminUser.controller");
+module.exports.foodController = require("./food.controller");
+module.exports.countryController = require("./country.controller");
+module.exports.stateController = require("./state.controller");
+module.exports.cityController = require("./city.controller");
+module.exports.restaurantController = require("./restaurant.controller");
+module.exports.restaurantOwnerController = require("./restaurantOwner.controller");
+module.exports.restaurantPhotoController = require("./restaurantPhoto.controller");
+module.exports.restaurantHourController = require("./restaurantHour.controller");
+module.exports.paymentMethodController = require("./paymentMethod.controller");
+module.exports.deliveryAddressController = require("./deliveryAddress.controller");
+module.exports.restaurantTypeController = require("./restaurantType.controller");
